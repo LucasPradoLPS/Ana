@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    background-color: black;
+    padding: 0;
+
+}
+
+.cabeçalho{
+    color: white;
+    background-color: blue;
+    margin-top: 0;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.subtitulo{
+    text-align: center;
+    left: 20px;
+    height: 20px;
+}
+
+.foto1{
+    border-radius: 100px;
+    left: 500px;
+    height: 500px;
+    border: blue;
+    margin-left: 20px;
+}
+
+.foto2{
+    border-radius: 100px;
+    left: 500px;
+    height: 500px;
+    border: blue;
+    margin-left: 710px;
+
+}
